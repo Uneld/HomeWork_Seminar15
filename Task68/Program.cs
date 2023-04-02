@@ -14,7 +14,7 @@
 }
 int[] EnterNumbers()
 {
-    System.Console.WriteLine("Please enter numbers");
+    System.Console.WriteLine("Please enter n, m");
     int[] inputArray = SingleLineInput(2);
     return inputArray;
 }
